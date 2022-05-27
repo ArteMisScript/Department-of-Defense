@@ -1,4 +1,5 @@
 {
-  "updateurl": "https://raw.githubusercontent.com/ArteMisScript/Department-of-Defense/main/Department%20of%20Defense.lua",
-  "latest": "27.06.2022"
+  "setver":1,
+  "version":"26.05.2022",
+  "url":"https://github.com/ArteMisScript/Department-of-Defense/blob/main/DefenseHelper.luac?raw=true"
 }
